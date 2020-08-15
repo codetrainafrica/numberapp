@@ -1,0 +1,42 @@
+/*this is the body*/
+.page-content {
+  background-color: red;
+}
+
+/*this is the navbar*/
+.navbar {
+  background-color: pink;
+  color: ;
+}
+
+/*guess a number text*/
+.block-title {
+  line-height: normal;
+  overflow: visible;
+  white-space: normal;
+  color: ;
+  font-size: 20px;
+}
+/*this is the input box container*/
+.item-input {
+  background-color: pink ;
+}
+
+/*the input box itself*/
+.input-box {
+  color: !important;
+  font-size: 20px !important ;
+}
+
+/*this is the check answer button*/
+.check-answer-button {
+  background-color: green;
+  color: ;
+}
+
+/*this is the answer notifitcation box*/
+.toast {
+  background: yellow;
+  color: black;
+  font-size: ;
+}
